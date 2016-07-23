@@ -1,3 +1,12 @@
+intel-grove-demo
+============================
+This is a demo project done for the Huntsville Alabama Chapter of the Hackster.IO meetup group.
+
+As such it was the first attemp to explore and utilize the Intel(R) Edison Board  and the Grove Seed Starter Kit to build a small prototype of a parking facility. Most of the software components were drawn together into the Web Sockets Template the was included in the Intel(R) XDK IoT Edition IDE.
+
+This is a work in progress and the demo will be further refined in the near future... stay tuned! In the meantime the README.md file from the original Web Socket Template from the XDK IDE is included for your reading pleasure!!
+
+
 Web Sockets
 ============================
 A simple nodeJS project that uses the socket.io NodeJS module to enable real time communication between clients and the development board via a web browser to toggle the state of the onboard LED.
@@ -124,5 +133,5 @@ Important App Files
 * package.json
 * icon.png
 * README.md
-"# intel-grove-demo" 
-"# intel-grove-demo" 
+
+ 
