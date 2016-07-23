@@ -1,0 +1,123 @@
+{
+  "project": {
+    "projectSettingsVersion": "3.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "editorTab": {
+    "currentEditorMode": 0
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "LICENSE.md": {
+        "previousModTime": 1468274425864,
+        "modified": 1468274425864,
+        "seen": true,
+        "name": "LICENSE.md"
+      },
+      "README.md": {
+        "previousModTime": 1468274425864,
+        "modified": 1468274425864,
+        "seen": true,
+        "name": "README.md"
+      },
+      "hacksterDemoProj.xdk": {
+        "previousModTime": 1468427733307,
+        "modified": 1468427733307,
+        "seen": true,
+        "name": "hacksterDemoProj.xdk"
+      },
+      "hacksterDemoProj.xdke": {
+        "previousModTime": 1468454052321,
+        "modified": 1468454052321,
+        "seen": true,
+        "name": "hacksterDemoProj.xdke"
+      },
+      "icon.png": {
+        "previousModTime": 1468274425864,
+        "modified": 1468274425864,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1468454086124,
+        "modified": 1468454086124,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1468274425866,
+        "modified": 1468274425866,
+        "seen": true,
+        "name": "package.json"
+      },
+      "websockets_client.png": {
+        "previousModTime": 1468274425867,
+        "modified": 1468274425867,
+        "seen": true,
+        "name": "websockets_client.png"
+      },
+      "xdk-publish-meta-data.json": {
+        "previousModTime": 1468274426306,
+        "modified": 1468274426306,
+        "seen": true,
+        "name": "xdk-publish-meta-data.json"
+      },
+      "client/index.css": {
+        "previousModTime": 1468434960502,
+        "modified": 1468434960502,
+        "seen": true,
+        "name": "client/index.css"
+      },
+      "client/index.html": {
+        "previousModTime": 1468436112186,
+        "modified": 1468436112186,
+        "seen": true,
+        "name": "client/index.html"
+      },
+      "client/index.js": {
+        "previousModTime": 1468442793625,
+        "modified": 1468442793625,
+        "seen": true,
+        "name": "client/index.js"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1468274426109,
+        "modified": 1468274426109,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      },
+      "lib/gate.js": {
+        "previousModTime": 1468444804415,
+        "modified": 1468444804415,
+        "seen": true,
+        "name": "lib/gate.js"
+      },
+      "lib/park_leds.js": {
+        "previousModTime": 1468257920707,
+        "modified": 1468257920707,
+        "seen": true,
+        "name": "lib/park_leds.js"
+      },
+      "lib/vehicle_sensor.js": {
+        "previousModTime": 1468452942509,
+        "modified": 1468452942509,
+        "seen": true,
+        "name": "lib/vehicle_sensor.js"
+      },
+      "lib/garage_display.js": {
+        "previousModTime": 1468452459533,
+        "modified": 1468452459533,
+        "seen": true,
+        "name": "lib/garage_display.js"
+      }
+    },
+    "boardFileStatus": {
+      "main.js": {
+        "previousModTime": 1468454096286
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+node_modules
+
+
+
+/*.suo
+/.ntvs_analysis.dat
+/bin/*.dll
+/obj
+/bin
+/*.njsproj
+/*.gitattributes
